@@ -3,7 +3,7 @@ import png
 from pyqrcode import QRCode
 
 #string which will be in QR
-QR="https://www.instagram.com/p/CK-m6cNguOJ/?igshid=NjZiMGI4OTY="
+QR="www.instagram.com"
 
 #calling the method to generate qr
 url=pyqrcode.create(QR)
